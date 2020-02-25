@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1559462170 source:c:\users\ancuta\desktop\proiect\proiect_praoo\src\bancomat.cpp
+	"bancomat.h"
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<fstream>
+
+1559462210 c:\users\ancuta\desktop\proiect\proiect_praoo\include\bancomat.h
+	<string.h>
+	"Persoana.h"
+	<iostream>
+	"Cont.h"
+	<fstream>
+
+1559418058 c:\users\ancuta\desktop\proiect\proiect_praoo\include\cont.h
+	"Persoana.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1559462210 source:c:\users\ancuta\desktop\proiect\proiect_praoo\src\cont.cpp
+	"Cont.h"
+	<string.h>
+	<iostream>
+	<stdio.h>
+
+1559422513 source:c:\users\ancuta\desktop\proiect\proiect_praoo\main.cpp
+	<iostream>
+	<conio.h>
+	"bancomat.h"
+	"listai.h"
+	"cont.h"
+	"Persoana.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<fstream>
+
+1559389820 c:\users\ancuta\desktop\proiect\proiect_praoo\listai.h
+	"data.h"
+
+1559389963 c:\users\ancuta\desktop\proiect\proiect_praoo\data.h
+	"Cont.h"
+
+1559392341 source:c:\users\ancuta\desktop\proiect\proiect_praoo\src\exceptie.cpp
+	"Exceptie.h"
+
+1559392341 c:\users\ancuta\desktop\proiect\proiect_praoo\include\exceptie.h
+	<string.h>
+	<iostream>
+
+1559478800 source:c:\users\ancuta\desktop\proiect\proiect_praoo\src\persoana.cpp
+	"Persoana.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1559422513 c:\users\ancuta\desktop\proiect\proiect_praoo\include\persoana.h
+	<string.h>
+	<fstream>
+
